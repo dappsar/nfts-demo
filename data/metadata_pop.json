@@ -1,0 +1,21 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Rosa"
+    },
+    {
+      "trait_type": "Genero",
+      "value": "Masculino"
+    },
+    {
+      "trait_type": "Primera Aparicion",
+      "value": "Preguntados"
+    }
+  ],
+  "description": "Pop es el personaje de la categoría Entretenimiento del juego Preguntados",
+  "external_url": "https://etermax.com/",
+  "image": "https://ipfs.io/ipfs/QmVEAhFdoDNjyh1Fp9YhAUHt4VqEpdL9CBhWNKQfAts1FN",
+  "name": "Pop"
+}
+
